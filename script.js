@@ -90,7 +90,7 @@ const chatToggle = $('#chatToggle');
 const chatPanel = $('#chatPanel');
 const chatInput = $('#chatInput');
 const chatSend = $('#chatSend');
-const whatsappNumber = '254742582849';
+const whatsappNumber = '18267770144';
 
 chatToggle.addEventListener('click', ()=>{
   const open = chatPanel.hasAttribute('hidden');
